@@ -11,11 +11,13 @@ a,
 button {
     transition: all .3s ease-in-out;
     outline: none!important;
+    color:white;
 }
 
 a:hover {
     text-decoration: none;
     cursor: pointer;
+    color:#d36d19;
 }
 
 #page-loading-blocs-notifaction {
@@ -1082,11 +1084,5 @@ h4 {
     }
     .l-bloc {
         width: 300px;
-    }
-}
-
-@media (max-width: 767px) {
-    .bloc-mob-center-text {
-        text-align: center;
     }
 }
