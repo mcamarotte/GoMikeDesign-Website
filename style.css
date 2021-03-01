@@ -334,6 +334,7 @@ a:hover {
     float: left;
     margin-top: 4px;
     font-size: 16px;
+    padding: 10px 15px;
 }
 
 .navbar-nav .open .dropdown-menu > li > a {
@@ -517,7 +518,7 @@ button {
 .form-control {
     border-color: rgba(0, 0, 0, .1);
     box-shadow: none;
-    width:320px;
+    width: 500px;
 }
 
 .scrollToTop {
@@ -700,7 +701,7 @@ p {
 
 .cta-hero {
     margin-top: 22px;
-    color: #FFFFFF!important;
+    color: #242424 !important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 1.0em;
@@ -798,7 +799,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #242424!important;
 }
 
 .btn-atomic-tangerine:hover {
@@ -815,7 +816,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C!important;
+    color: #7c4d37!important;
 }
 
 .ltc-atomic-tangerine:hover {
@@ -883,10 +884,10 @@ h4 {
         background-attachment: scroll;
     }
     .text-center img{
-        width: 1030px;
+        width: 100%;
     }
     .l-bloc {
-        width: 1030px;
+        width: 980px;
 
     }
 }
