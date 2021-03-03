@@ -453,6 +453,8 @@ nav .caret {
 .mg-lg {
     margin-top: 10px;
     margin-bottom: 40px;
+    filter:brightness(10);
+    font-size: 18px;
 }
 
 .btn {
@@ -669,6 +671,7 @@ a {
 
 .hero-bloc-text {
     font-size: 38px;
+    filter:brightness(10);
 }
 
 .hero-bloc-text-sub {
@@ -691,7 +694,7 @@ p {
 
 .tight-width-whitespace {
     max-width: 600px;
-    margin: auto auto auto auto;
+    margin: 30px auto auto auto;
 }
 
 .h1 {
@@ -714,7 +717,7 @@ p {
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 28px;
     line-height: 1.4em;
 }
 
@@ -727,7 +730,7 @@ h3 {
 
 .med-width-whitespace {
     max-width: 800px;
-    margin: auto auto auto auto;
+    margin: 30px auto auto auto;
     box-shadow: 0px 0px 0px #000000;
 }
 
